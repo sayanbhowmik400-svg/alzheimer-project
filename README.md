@@ -1,3 +1,6 @@
+## LIVE
+https://alzheimer-project-via-mriscan.onrender.com
+
 # Alzheimer's Disease Prediction from MRI Scans (Deep Learning)
 
 A complete, ready-to-run PyTorch project that classifies brain MRI images into
